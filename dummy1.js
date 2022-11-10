@@ -1,2 +1,2 @@
 console.log("hello");
-console.log("Updated file");
+console.log("Updated files");
